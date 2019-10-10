@@ -14,8 +14,6 @@
 三、 利用贝叶斯定理进行情感分析  
 四、 利用AdaBoost加强分类器
   
-**完整文档可以看doc**
-https://github.com/Bazingaliu/weiboanalysis/tree/master/doc
 ## 一、获取微博文本
 <div align="center">
 
